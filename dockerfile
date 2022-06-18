@@ -1,5 +1,4 @@
 # Docker Container for Ion-Update
-# sudo docker build -t jimurrito/ionupdate:latest .
 
 FROM jfloff/alpine-python:latest
 
