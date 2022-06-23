@@ -2,16 +2,8 @@
 
 from AutoDNS import *
 
-# Captures CLI Arguments
-#FreqUnt, FreqAmt, Zones, Pub_key, Prv_key, Scrap = getArgs()
-
-# TEST VARS --- REMOVE BEFORE PUSH  ---
-FreqUnt = "days"
-FreqAmt = "1"
-Zones = ['immerhouse.com', 'virtrillo.com']
-Pub_key = "dad2e89ca8754409b86a2f205197dbd8"
-Prv_key = "Wow8bKire-YP5q3O6FyuwLd5Xi1vPWvENgJITcvVOiAKzN11zjWv00WPK0iocLj4Zw_mxXSeWzEIhgIgynUtxQ"
-
+# gets CLI args
+FreqUnt, FreqAmt, Zones, Pub_key, Prv_key, Scrap = getArgs()
 
 # Application Boot Scren
 Startup()
