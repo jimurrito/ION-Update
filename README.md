@@ -1,5 +1,6 @@
-# ION-Update
+# ION-Update (DEPRECATED)
 Keeps IONOS Public (A)Records updated with your current Public IP
+**Please use the new version, rewritten in Rust. [Link](https://hub.docker.com/r/jimurrito/ionupdate_rs)**
 
 https://hub.docker.com/r/jimurrito/ionupdate
 
